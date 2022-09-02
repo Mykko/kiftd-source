@@ -219,6 +219,12 @@
 				</executions>
 			</plugin>
 		</plugins>
+<!--		<resources>-->
+<!--			<resource>-->
+<!--				<directory></directory>-->
+<!--			</resource>-->
+<!--		</resources>-->
+
 	</build>
 	<!-- end 项目基本配置 -->
 
